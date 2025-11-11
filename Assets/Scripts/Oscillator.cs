@@ -1,39 +1,3 @@
-// using UnityEngine;
-
-// public class Oscillator : MonoBehaviour
-// {
-//     [Header("Amplitude (maximum distance from start)")]
-//     [SerializeField] private Vector3 amplitude = new Vector3(6f, 0f, 0f);
-
-//     [Header("Frequency (num of oscillations per second)")]
-//     [SerializeField] private Vector3 frequency = new Vector3(0.15f, 0f, 0f);
-
-//     [Header("Phase Offset")]
-//     [SerializeField] private float phase = 0f;
-
-//     private Vector3 startPosition;
-
-//     void Awake()
-//     {
-//         // Save the starting position as the center of movement
-//         startPosition = transform.position;
-//     }
-
-//     void Update()
-//     {
-//         float t = Time.time + phase;
-
-//         // Trigo (sinus) oscillation
-//         Vector3 offset = new Vector3(
-//             amplitude.x * Mathf.Sin(2f * Mathf.PI * frequency.x * t),
-//             amplitude.y * Mathf.Sin(2f * Mathf.PI * frequency.y * t),
-//             amplitude.z * Mathf.Sin(2f * Mathf.PI * frequency.z * t)
-//         );
-
-//         transform.position = startPosition + offset;
-//     }
-// }
-
 
 using UnityEngine;
 
