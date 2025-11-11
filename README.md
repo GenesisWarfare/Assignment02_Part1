@@ -16,7 +16,7 @@ Pulsator (Scaler): Makes a sphere (or any object) “beat” by scaling up and d
 
 VisibilityToggle: Shows or hides objects with the H key. Can also affect children and colliders. Uses the new Unity Input System.
 
-## Author:
+## Authors:
 Raphael Coeffic
 
 Yanai Levy
