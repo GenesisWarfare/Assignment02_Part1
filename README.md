@@ -1,7 +1,7 @@
 # Assignment02_Part1
 
 ## Play the Game:
-https://genesiswarfare.itch.io/
+[https://genesiswarfare.itch.io/](https://genesiswarfare.itch.io/oscilator-rotator)
 
 ## Project Overview:
 This Unity project was created as part of Assignment 02 – Part 1.
