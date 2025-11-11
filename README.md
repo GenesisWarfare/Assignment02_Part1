@@ -18,4 +18,5 @@ VisibilityToggle: Shows or hides objects with the H key. Can also affect childre
 
 ## Author:
 Raphael Coeffic
+
 Yanai Levy
